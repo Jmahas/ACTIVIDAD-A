@@ -16,7 +16,10 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mundo");
+        String mundo = "Tierra";
+        String Continente="Asiatico";
+        System.out.println("Hola mundo" +mundo);
+        System.out.println("Estas en el continente:"+Continente);
     }
     
 }
